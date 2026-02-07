@@ -1,0 +1,36 @@
+{
+  "meals": [
+    {
+      "id": "m1",
+      "name": "Spicy Chicken Rice Bowl",
+      "ingredients": [
+        { "item": "Chicken breast", "quantity": "2", "unit": "pieces" },
+        { "item": "White rice", "quantity": "1", "unit": "cup" },
+        { "item": "Bell pepper", "quantity": "1", "unit": "piece" },
+        { "item": "Soy sauce", "quantity": "2", "unit": "tbsp" }
+      ],
+      "instructions": [
+        "Cook the rice according to package instructions.",
+        "Cook chicken until fully done.",
+        "Sauté vegetables.",
+        "Combine and drizzle soy sauce."
+      ],
+      "estimated_price": { "currency": "CAD", "total": 9.75 }
+    },
+    {
+      "id": "m2",
+      "name": "Veggie Pasta Primavera",
+      "ingredients": [
+        { "item": "Pasta", "quantity": "200", "unit": "g" },
+        { "item": "Zucchini", "quantity": "1", "unit": "piece" },
+        { "item": "Cherry tomatoes", "quantity": "1", "unit": "cup" }
+      ],
+      "instructions": [
+        "Boil pasta until al dente.",
+        "Sauté veggies.",
+        "Toss pasta with veggies and season."
+      ],
+      "estimated_price": { "currency": "CAD", "total": 7.20 }
+    }
+  ]
+}
