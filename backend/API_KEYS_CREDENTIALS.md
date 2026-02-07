@@ -76,8 +76,8 @@
 1. **Create Firebase Project**
    - Visit: https://console.firebase.google.com/
    - Click "Add project"
-   - Enable Realtime Database
-   - Set security rules (see DATABASE_STRUCTURE.md)
+   - Enable Realtime Database → **SELECT "TEST MODE"**
+   - Set security rules (see FIREBASE_SECURITY_RULES_SETUP.md)
 
 2. **Get Firebase Credentials**
    - Project Settings → Service Accounts

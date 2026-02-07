@@ -63,7 +63,7 @@ class FirebaseService:
             except ValueError:
                 firebase_admin.initialize_app(
                     cred,
-                    {"databaseURL": "https://your-project.firebaseio.com"}
+                    {"databaseURL": "https://nonslop-405aa-default-rtdb.firebaseio.com/"}
                 )
             
             self.db = db
