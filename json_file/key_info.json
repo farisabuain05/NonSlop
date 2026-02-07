@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "ingredients": [
+    {
+      "item": "",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "instructions": [
+    ""
+  ],
+  "estimated_price": {
+    "currency": "CAD",
+    "total": 0.00,
+    "breakdown": [
+      {
+        "item": "",
+        "price": 0.00
+      }
+    ]
+  }
+}
