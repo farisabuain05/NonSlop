@@ -80,8 +80,8 @@
    - Set security rules (see FIREBASE_SECURITY_RULES_SETUP.md)
 
 2. **Get Firebase Credentials**
-   - Project Settings → Service Accounts
-   - Generate private key (JSON format)
+   - Project Settings → Service Accounts → Generate New Private Key
+   - Downloads JSON file (see FIREBASE_SERVICE_ACCOUNT_SETUP.md)
    - Store securely (never commit to Git)
 
 3. **Update Configuration**

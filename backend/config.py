@@ -23,3 +23,6 @@ GEMINI_MODEL = "gemini-2.5-flash"
 # Meal Plan Generation Settings
 MEAL_PLAN_TEMPERATURE = 0.9  # Higher temperature for more creative variety
 MEAL_PLAN_MAX_TOKENS = 4096  # Increased to ensure complete meal output with instructions
+
+FIREBASE_CREDENTIALS_PATH = os.getenv("FIREBASE_CREDENTIALS_PATH")
+FIREBASE_DATABASE_URL = os.getenv("FIREBASE_DATABASE_URL")
